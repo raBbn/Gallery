@@ -1,8 +1,8 @@
 [
 	{
-		"title": "Admission Open",
-		"desc": "Do you want to apply for Admission",
-		"button":"Apply",
-		"url":"http://khwopa.edu.np/apply"
+		"title": "Admission Closed",
+		"desc": "For Further Info",
+		"button":"Check",
+		"url":"http://khwopa.edu.np"
 	}
 ]
